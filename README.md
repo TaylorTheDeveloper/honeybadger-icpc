@@ -2,10 +2,10 @@
 
 ![icpc](http://i.ytimg.com/vi/x9Jr9JKpsX8/maxresdefault.jpg "Honey Badger")
 
- > http://icpc.baylor.edu/worldfinals/problems
- 
- 
- > https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8
+ * http://icpc.baylor.edu/worldfinals/problems
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8
+ * https://code.google.com/p/acmsourcecodes/
+ * http://web.cs.ucdavis.edu/~filkov/acm/
  
 
 
